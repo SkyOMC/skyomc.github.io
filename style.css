@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "Karla";
+    src: url("Karla-regular.ttf");
+}
+body {
+    background-color: aqua;
+}
+div#titlebar {
+    font-family: "Karla";
+    background-color: black;
+    display: flex;
+    size: 20px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+h1#text {
+    font-family: "Karla";
+    color: black;
+    text-align: center;
+    font-size: 80px;
+}
+h1#title {
+    font-family: "Karla";
+    color: black;
+    font-size: 40px;
+    text-align: start;
+    padding: 10px;
+}
+h4#tex1 {
+    font-family: "Karla";
+    color:azure;
+    padding: 5px;
+}
+ul {
+    font-family: "Karla";
+    color:azure;
+    padding: 5px;
+    text-align: left;
+}
